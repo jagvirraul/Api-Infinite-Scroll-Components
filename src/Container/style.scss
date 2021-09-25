@@ -1,0 +1,18 @@
+.main{
+    padding: 30px;
+    .main-container{
+        padding: 10px;
+        .heading{
+            text-align: center;
+        }
+        table{
+            tbody{
+                tr{
+                    th,td{
+                        vertical-align: middle;
+                    }
+                }
+            }
+        }
+    }
+}
